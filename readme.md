@@ -15,4 +15,4 @@ Most of the notes is are in the [Jupiter notebook](./search.ipynb)
 1. Search for book review related jobs: 
     - `python main.py --jobs --query "Book review"`
 2. Search a showering jell related products: 
-    - `python main.py --products --query "Showering jell"`
+    - `python main.py --products --query "Pishori Rice"`
